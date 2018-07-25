@@ -2,7 +2,7 @@ Project name: Multifunctional Calculator
 
 Project type: GUI application
 
-Program in which the application was created: Visual Studio 2015
+Program, in which the application was created: Visual Studio 2015
 
 Calculator modes:
  - standard: provides simple arithmetic operations
@@ -12,4 +12,4 @@ Calculator modes:
  
 Additional possibilities:
  - default window mode
- - pin mode: the app is always on top
+ - pin mode: the app is always on the top
