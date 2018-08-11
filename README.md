@@ -1,3 +1,6 @@
+![kalk](https://user-images.githubusercontent.com/40712810/43993032-d8a41ff4-9d87-11e8-8243-47160dc657c1.PNG)
+
+
 Project name: Multifunctional Calculator
 
 Project type: GUI application
